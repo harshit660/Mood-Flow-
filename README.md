@@ -100,7 +100,7 @@ auralis/
 
 The frontend is ready for Vercel, Netlify, or Cloudflare Pages using `pnpm run build` and the `dist` directory. Deploy the optional FastAPI directory as a container service, then set `VITE_EMOTION_API_URL` in the frontend environment.
 
-## Resume-ready description
+## description
 
 **Auralis — Emotion-Based Music Player** · React, TypeScript, FastAPI, MIR
 
