@@ -1,0 +1,15 @@
+# Dependencies and build artefacts
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Python
+api/.venv/
+__pycache__/
+*.py[cod]
+
+# Environment & local files
+.env
+.env.local
+.DS_Store
